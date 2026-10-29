@@ -1,0 +1,8 @@
+{
+    "semilla_aleatoria": 60,
+    "tamano_poblacion": 175,
+    "numero_generaciones": 25,
+    "probabilidad_cruce": 1.75,
+    "probabilidad_mutacion": 0.50,
+    "longitud_cromosoma": 22
+}
